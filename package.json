@@ -11,9 +11,11 @@
   "author": "Jonathan Rufino",
   "license": "GPL-3.0",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "pg": "^7.4.3"
   },
   "engines": {
-    "node": "8.10.0"
+    "node": "8.10.0",
+    "yarn": "1.9.4"
   }
 }
